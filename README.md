@@ -10,15 +10,22 @@ Welcome to my GitHub profile! I am a passionate front-end developer with a diver
 
 ---
 
+## 🎓 Education
+
+- **B.Tech in Mechanical Engineering**
+  - Mic College of Technology
+
+---
+
 ## 🛠️ Skills
 
-- **HTML**: Semantic markup for structuring web content
-- **CSS**: Styling and layout techniques
-- **Bootstrap**: Responsive design framework
-- **JavaScript**: Dynamic and interactive web development
-- **Flutter**: Cross-platform mobile development
-- **React**: Modern web development with components
-- **Node.js**: Server-side JavaScript
+- **HTML**: Crafting semantic, well-structured web pages with ease.
+- **CSS**: Turning designs into reality with sleek, responsive styles.
+- **Bootstrap**: Accelerating front-end development with this powerful framework.
+- **JavaScript**: Bringing interactivity and dynamic content to life.
+- **Flutter**: Mastering cross-platform mobile app development.
+- **React**: Building modern, modular web applications with efficiency.
+- **Node.js**: Empowering back-end services with server-side JavaScript.
 
 ---
 
@@ -32,12 +39,12 @@ Welcome to my GitHub profile! I am a passionate front-end developer with a diver
 
 ### Treasure Hunt Admin
 <img src="https://images.unsplash.com/photo-1612257998531-70e0d0a15f6d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Project Image" width="300" height="150">
-- Developed a fully functional website using React and Material-UI.
+- Developed a fully functional website using React and Material-UI.<br/>
 - [Project Link](https://treasure-hunt-ebon.vercel.app/home)
 
 ### Car Rental App
 <img src="https://mobisoftinfotech.com/assets/images/og-images/Car-Rental-App-Development.png" alt="Project Image" width="300" height="150">
-- Created a mobile application to enhance user experience and functionality.
+- Created a mobile application to enhance user experience and functionality.<br/>
 - [Project Link](https://github.com/ChandanaPuvvala/Car_rental_app1)
 
 ---
@@ -77,7 +84,6 @@ Welcome to my GitHub profile! I am a passionate front-end developer with a diver
 
 </div>
 
-
 ---
 
 ## 🏆 Achievements
@@ -110,4 +116,3 @@ Feel free to explore my repositories, check out my projects, and connect with me
 
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
----

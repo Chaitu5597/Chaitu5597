@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I am a passionate front-end developer with a diver
 
 ## 🖥️ Projects
 
-### Treasure Hunt Admin
+### Gaming Application Admin
 <img src="https://images.unsplash.com/photo-1612257998531-70e0d0a15f6d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Project Image" width="300" height="150">
 - Developed a fully functional website using React and Material-UI.<br/>
 - [Project Link](https://treasure-hunt-ebon.vercel.app/home)

@@ -42,6 +42,7 @@ Welcome to my GitHub profile! I am a passionate front-end developer with a diver
 - Developed a fully functional website using React and Material-UI.<br/>
 - [Project Link](https://treasure-hunt-ebon.vercel.app/home)
 
+
 ### Car Rental App
 <img src="https://mobisoftinfotech.com/assets/images/og-images/Car-Rental-App-Development.png" alt="Project Image" width="300" height="150">
 - Created a mobile application to enhance user experience and functionality.<br/>
